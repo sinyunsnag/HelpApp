@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_01924af36f899da0d171ae70441d0f230bc45e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_886c9a23e2e2488b06f1c15198b2f98c2b4a66fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_e6aad5883005d3ecbf09c05cc0049366e45cd636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_f65a0428cb8b4f51b6582d4baa4c7262e5df3f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_b35c80ac7dc828689dcfe8b38750444621e3ed83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_9c74e328dabaa08f5cce637c8528d1cb0f1258fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_f1530724d74252b71e3539cfcde84e8acd1407bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_89cf0cbdd3c4523b0c71acafb53d670c03372531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_c42e97371831c3588c129954866bebb44868b5e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_f1f25b230d3a3fb692a02513b4d3a75dcceeaedf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_870018718b0216918cac188d957780c072da9758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_4213eb84280516dd0c9965df85cfdd2388c8f48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_61eb28883f2f7f470e96ee8dceb3c07d17326f8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_20395a6b43e08465791338abe84a3d56af035c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_8f11e1d66a5a3ebd06dc5c05dccec8c577167618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_ebd288079a19cdf2d2e7a0d8e82204d16a2fa03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.0_df45f11d158bc8a0776bc18cc49709be0fec72df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_e10fbb0c5a09079f134c6813780a6e276e54788c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_d6d8bb6881bc0982dc0e257fb93618bde3fe384c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/okio-1.6.0_a91e39a604f632b73020b16dea08b307ddf4e1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_452b432f2ed3536a1d220cf95003890a6f8cdd15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_3c1192357a43c6d6b037ab31b0d856c198df66ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/donghaechoi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/donghaechoi/Downloads/HelpApplication/app/build/intermediates/pre-dexed/debug/gson-2.8.0_6bf7a4fb376c4246e72774939151fabfc7b1c3d0.jar" />
+    </item>
+
+</items>
